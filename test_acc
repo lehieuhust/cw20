@@ -1,0 +1,39 @@
+oraid keys add validator1 --keyring-backend=test --home=/Users/hieule/.oraid/validator1
+
+- name: validator1
+  type: local
+  address: orai1795jrhmwyprynu2gapzmr7t05tuef5l8zdt35k
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"Aji3TlD5Un1rc+f2vJ4WsHhvYfWp8KyuMxdmC3+zoHTg"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+say cheap awkward frown walk mercy area kingdom tip success excuse asset match another cigar only rude aunt gasp shine flight idle achieve display
++ oraid keys add validator2 --keyring-backend=test --home=/Users/hieule/.oraid/validator2
+
+- name: validator2
+  type: local
+  address: orai13ftslfm3spt02kya8hye5jpcuj9x6pcktc5ync
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A62LZtB5xTge/5/dHymwEChmYLacGOUxtrG23njXIxZU"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+garlic meat gospel crop slot wear clown grow flash access help blue scout small name repair fame question deputy dawn jaguar twelve ball congress
++ oraid keys add validator3 --keyring-backend=test --home=/Users/hieule/.oraid/validator3
+
+- name: validator3
+  type: local
+  address: orai1qv9m97m5ddlyhadpe8unhtka8gjg76vn29njnk
+  pubkey: '{"@type":"/cosmos.crypto.secp256k1.PubKey","key":"A2qgKSY9DpZXjWDnYn5Jy6NZjcN7A/RKGBWiKzri6QZ4"}'
+  mnemonic: ""
+
+
+**Important** write this mnemonic phrase in a safe place.
+It is the only way to recover your account if you ever forget your password.
+
+tiger spread cannon obtain sea decrease nasty curve warrior humor flavor enforce spy clay slam jaguar addict kitten wrestle medal fault crater seat stone
